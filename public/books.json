@@ -1,0 +1,104 @@
+[
+    {
+        "book_id": "1",
+        "book_name": "The Dating Playbook For Man",
+        "author": "Andrew Ferebee",
+        "image": "https://i.ibb.co/ZJwYtCX/pngwing-1.png",
+        "review": "A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice.",
+        "totalpages": 324,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Racism",
+            "Justice"
+        ],
+        "publisher": "J.B. Lippincott & Co.",
+        "year_of_publishing": 1960
+    },
+    {
+        "book_id": "2",
+        "book_name": "Why do You Hate Money",
+        "author": "Joey Percia",
+        "image": "https://i.ibb.co/bRySfZb/kindpng-7318921.png",
+        "review": "A dystopian social science fiction novel and cautionary tale about the future.",
+        "totalpages": 328,
+        "rating": 4.7,
+        "category": "Science Fiction",
+        "tags": [
+            "Dystopia",
+            "Totalitarianism",
+            "Surveillance"
+        ],
+        "publisher": "Secker & Warburg",
+        "year_of_publishing": 1949
+    },
+    {
+        "book_id": "3",
+        "book_name": "2019",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co/xDW5twT/kindpng-81724-1.png",
+        "review": "A romantic novel of manners that explores the issues of marriage, money, and love.",
+        "totalpages": 279,
+        "rating": 4.5,
+        "category": "Romance",
+        "tags": [
+            "Classic",
+            "Romance",
+            "Society"
+        ],
+        "publisher": "T. Egerton, Whitehall",
+        "year_of_publishing": 1813
+    },
+    {
+        "book_id": "4",
+        "book_name": "Loving Jesus More",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/4VwQvWS/kindpng-2193744-1.png",
+        "review": "A novel about the American dream and the roaring twenties.",
+        "totalpages": 180,
+        "rating": 4.4,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "American Dream",
+            "1920s"
+        ],
+        "publisher": "Charles Scribner's Sons",
+        "year_of_publishing": 1925
+    },
+    {
+        "book_id": "5",
+        "book_name": "The Lost Art of Good Conversation",
+        "author": "Sakyong Mipham",
+        "image": "https://i.ibb.co/0mBmckr/kindpng-5624060-1.png",
+        "review": "A story about teenage rebellion and angst.",
+        "totalpages": 214,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Teenage",
+            "Rebellion"
+        ],
+        "publisher": "Little, Brown and Company",
+        "year_of_publishing": 1951
+    },
+    {
+        "book_id": "6",
+        "book_name": "Spine Of The Dragon",
+        "author": "Kevin J. Anderson",
+        "image": "https://i.ibb.co/xXz26xh/kindpng-4945926-1.png",
+        "review": "An epic tale of the voyage of the whaling ship Pequod.",
+        "totalpages": 635,
+        "rating": 4.1,
+        "category": "Adventure",
+        "tags": [
+            "Classic",
+            "Adventure",
+            "Sea"
+        ],
+        "publisher": "Harper & Brothers",
+        "year_of_publishing": 1851
+    }
+]
