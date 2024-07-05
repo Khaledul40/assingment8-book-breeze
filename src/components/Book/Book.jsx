@@ -1,10 +1,11 @@
 import { MdOutlineStarBorder } from "react-icons/md";
+import { Link } from "react-router-dom";
 
 const Book = ({book}) => {
-    const {image, book_name, author, book_id, review, totalpages, rating, category, tags, publisher, year_of_publishing} = book;
+    const {book_id, image, book_name, author, review, totalpages, rating, category, tags, publisher, year_of_publishing} = book;
     return (
         <Link to={`/book/${book_id}`}>
-            <div className="card bg-base-100 shadow-xl p-5">
+             <div className="card bg-base-100 shadow-xl p-5">
                 <figure className="bg-slate-200 py-6">
                     <img
                     src={image}

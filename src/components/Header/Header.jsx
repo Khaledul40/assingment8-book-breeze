@@ -34,9 +34,9 @@ const Header = () => {
                     {links}
                 </ul>
                 </div>
-                <a className="btn btn-ghost text-2xl font-bold">Book Breeze</a>
+                <a className="btn btn-ghost text-2xl font-bold font-sans">Book Breeze</a>
             </div>
-            <div className="navbar-center hidden lg:flex">
+            <div className="navbar-center hidden lg:flex font-sans">
                 <ul className="menu menu-horizontal px-1">
                     {links}
                 </ul>
