@@ -12,12 +12,15 @@ const Book = ({book}) => {
                     alt="Book" />
                 </figure>
                 <div className="card-actions mt-5">
-                    <div className="badge badge-outline">Fashion</div>
-                    <div className="badge badge-outline">Products</div>
+                    <p className="">
+                        {
+                            tags.map((tag, idx) => <span key={idx}><a className="ml-2 px-2 py-1 bg-slate-50 rounded-2xl text-lime-400 font-sans text-sm" href="">{tag}</a></span>)
+                        }
+                    </p>
                 </div>
                 <div className=" border-b-2 border-dotted py-5">
                     <h2 className="card-title">{book_name}</h2>
-                    <p>BY:  {author}</p>
+                    <p className="font-sans mt-3 text-sm font-semibold">BY:  {author}</p>
                 </div>
                 <div className="flex justify-between my-4">
                     <div><p>{category}</p></div>

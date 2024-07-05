@@ -16,7 +16,7 @@ const Books = () => {
         <div className="my-12">
             <h2 className="text-center text-4xl font-bold">Books: {books.length}</h2>
 
-            <div className="grid grid-cols-3 gap-5">
+            <div className="grid lg:grid-cols-3 gap-5">
                 {
                     books.map(book => <Book key={book.book_id} book={book}></Book>)
                 }
